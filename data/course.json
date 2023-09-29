@@ -1,0 +1,51 @@
+{
+  "term": "Fall",
+  "year": "2009",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Mathematics",
+      "Differential Equations"
+    ],
+    [
+      "Mathematics",
+      "Mathematical Analysis"
+    ],
+    [
+      "Mathematics",
+      "Applied Mathematics"
+    ]
+  ],
+  "legacy_uid": "485b0c54-fa62-9680-e86c-e8af1172ff9a",
+  "instructors": {
+    "content": [
+      "93e019fd-a46e-751f-99ea-91010c1f9c00"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "2a719bb7-1126-5504-2eb2-2d8e310f18fe",
+    "website": "18-306-advanced-partial-differential-equations-with-applications-fall-2009"
+  },
+  "course_title": "Advanced Partial Differential Equations with Applications",
+  "course_description": "The focus of the course is the concepts and techniques for solving the partial differential equations (PDE) that permeate various scientific disciplines. The emphasis is on nonlinear PDE. Applications include problems from fluid dynamics, electrical and mechanical engineering, materials science, quantum mechanics, etc.\n",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "18.306",
+  "course_image_thumbnail": {
+    "content": "8409787a-8264-d568-c42a-f892d664670a",
+    "website": "18-306-advanced-partial-differential-equations-with-applications-fall-2009"
+  },
+  "learning_resource_types": [
+    "Problem Sets",
+    "Exams",
+    "Lecture Notes"
+  ],
+  "site_uid": "10b17121-1f14-4753-8b48-d89cd7126ea2",
+  "site_short_id": "18.306-fall-2009",
+  "title": "Course Metadata"
+}

@@ -1,0 +1,25 @@
+leftnav:
+- identifier: 8c955ba0-0e48-7259-d8d6-c4c74625d798
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 48e7e0f9-3924-e1dd-a20a-36cb0c05efc7
+  name: Readings
+  pageRef: /pages/readings
+  weight: 20
+- identifier: bfc0bab0-da28-f90c-6556-69b5f33eae57
+  name: Lecture Notes
+  pageRef: /pages/lecture-notes
+  weight: 30
+- identifier: 58b8cf09-cddb-40d7-27c8-1068ccd19c51
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 40
+- identifier: b08cf3d4-ab9d-51cc-a0aa-6749d0d40b9b
+  name: Exams
+  pageRef: /pages/exams
+  weight: 50
+- identifier: 0299c261-c392-24a0-07d8-59f7126367a9
+  name: MATLAB Resources
+  pageRef: /pages/matlab-resources
+  weight: 60
